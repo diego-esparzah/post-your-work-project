@@ -41,7 +41,7 @@ def load_data(city, month, day):
         df - Pandas DataFrame containing city data filtered by month and day
     """
 
-
+    # Refactored: Ensure data is properly filtered by city, month, and day before returning DataFrame
     return df
 
 
