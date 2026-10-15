@@ -1,27 +1,28 @@
->**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
+# US Bikeshare Data Exploration
 
+### Date Created
+October 15, 2026
 
-# Project Title
+## Description
+This project explores bike share system data for three major cities in the United States: Chicago, New York City, and Washington. It provides an interactive CLI program in Python that allows users to filter data by city, month, and day to compute descriptive statistics on bike usage patterns.
 
-Describe what your project is about and what it does
+### Key Features Computed
+- **Popular travel times:** Most common month, day of week, and hour of day.
+- **Popular stations and trips:** Most popular start station, end station, and trip combinations.
+- **Trip duration:** Total and average travel times.
+- **User information:** Counts of user types, gender breakdown, and birth year statistics (where available).
 
-## Information about how to use your project
+## Files Included
+- `bikeshare.py`: Main Python script containing the interactive analysis code.
+- `README.md`: Project documentation and guidelines.
+- `.gitignore`: File configured to exclude large dataset files (`*.csv`).
 
-This could include:
+## Requirements
+- Python 3.x
+- Pandas library
+- NumPy library
 
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
-
-## Contribution guidelines
-
-If you welcome contributions, provide guidelines on how others can contribute to your project.
-
-## Credits
-
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-## Date created
-
-Include the date you created this project and README file.
+## Installation & Usage
+1. Clone this repository to your local machine:
+   ```bash
+   git clone [https://github.com/diego-esparzah/post-your-work-project.git](https://github.com/diego-esparzah/post-your-work-project.git)
