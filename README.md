@@ -4,7 +4,7 @@
 October 15, 2026
 
 ## Description
-This project explores bike share system data for three major cities in the United States: Chicago, New York City, and Washington. It provides an interactive CLI program in Python that allows users to filter data by city, month, and day to compute descriptive statistics on bike usage patterns.
+This project explores bike share system data for three major cities in the United States: Chicago, New York City, and Washington. It provides an interactive CLI program in Python that allows users to filter data by city, month, and day to compute descriptive statistics on bike usage patterns. The statistics cover travel times, stations and trips, trip duration and user info.
 
 ### Key Features Computed
 - **Popular travel times:** Most common month, day of week, and hour of day.
